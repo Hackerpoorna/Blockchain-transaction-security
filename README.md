@@ -17,9 +17,14 @@ PageHandler: Generic handler for serving static HTML pages.
 Setup
 Prerequisites
 Java JDK 11 or later
+
 Installation
+
 Clone repository:
+
 git clone https://github.com/your-username/BlockchainTransactionSecurity.git
 cd BlockchainTransactionSecurity
+
 Team Members
+
 V. Poorna Chandra - @poornachandra - Team Leader
